@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm @broccolini, Director of Design Infrastructure at GitHub. I’m a designer with an interest in [systems thinking](https://www.chelseagreen.com/product/thinking-in-systems/), [code as a material](https://runemadsen.com/), and [inclusive design](https://www.microsoft.com/design/inclusive/). 
+I'm @broccolini, Director of Design Infrastructure at GitHub. I’m a designer with an interest in [systems thinking](https://www.chelseagreen.com/product/thinking-in-systems/), [code as a material](https://www.clarityconf.com/session/code-is-a-material), and [inclusive design](https://www.microsoft.com/design/inclusive/). I like to give back to the design systems community by [speaking](http://broccolini.net/#talks) at conferences, occasionally [writing](http://broccolini.net/#writing) articles and [books](https://www.designbetter.co/design-systems-handbook), and when it’s safe to hang out in person, organizing the NYC chapter of the [Design Systems Coalition](https://designsystems.nyc/).
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40broccolini-09b43a.svg)](https://github.com/broccolini)
 [![Twitter](https://img.shields.io/badge/Twitter-%40broccolini-1d9bf0.svg)](https://twitter.com/broccolini)
